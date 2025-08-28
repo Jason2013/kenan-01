@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = '《雾都孤儿》阅读'
-copyright = '2025, 轩宇阅读网'
-author = '[英]狄更斯'
+project = '名侦探柯南 - 给工藤新一的挑战书'
+copyright = '2025, 长春出版社'
+author = '[原作] 青山刚昌，[小说] 平良隆久'
 
 release = '0.1.0'
 version = '0.1.0'
